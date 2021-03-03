@@ -1,0 +1,157 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Alarm clock
+Author: Poly by Google
+URL: https://poly.google.com/view/4t8wFjBwJVI
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Apple
+Author: Poly by Google
+URL: https://poly.google.com/view/5hRReRDr0v4
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Cheeseburger
+Author: Poly by Google
+URL: https://poly.google.com/view/eke7qcu_FR2
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Coffee cup
+Author: Poly by Google
+URL: https://poly.google.com/view/8-L4ibtXS8d
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Donut
+Author: Poly by Google
+URL: https://poly.google.com/view/6LSB0OZK8I7
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: French fries
+Author: Poly by Google
+URL: https://poly.google.com/view/4hpYt9IW-1k
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Frying pan
+Author: Pixl
+URL: https://poly.google.com/view/3JfYfelAFXj
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Fyre Festival Meal
+Author: Tipatat Chennavasin
+URL: https://poly.google.com/view/5DdyUv1lsLS
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Google Carboard Viewer
+Author: jo_kil
+URL: https://poly.google.com/view/7ioXRbBa6uu
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Hot dog
+Author: Poly by Google
+URL: https://poly.google.com/view/fPOjUkuqPLw
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lantern
+Author: Poly by Google
+URL: https://poly.google.com/view/9YMVn5hMiv8
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lobster tail
+Author: Poly by Google
+URL: https://poly.google.com/view/4vpo00rGMNK
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: old time tv
+Author: Jeff Larson (Larson's ID/Tech Channel)
+URL: https://poly.google.com/view/7-dgp0L8elg
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: old tv
+Author: Justin Randall
+URL: https://poly.google.com/view/9y-mTmCyefL
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: PONI martini
+Author: Petroleum Blownapart
+URL: https://poly.google.com/view/a62-rC5AK62
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Rubik's Cube
+Author: Gianluca Panebianco
+URL: https://poly.google.com/view/1IR0XwFdEU1
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: sammich
+Author: Jeff Larson (Larson's ID/Tech Channel)
+URL: https://poly.google.com/view/9TD15OhRzW9
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Simple Candelabra
+Author: Don Carson
+URL: https://poly.google.com/view/b07YM_KsRhb
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Simple computer
+Author: Robert Schlyter
+URL: https://poly.google.com/view/doMMnviJrGi
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Simple soccer football
+Author: Smirnoff Alexander
+URL: https://poly.google.com/view/57u6P7Sr7K0
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Simple Suitcase
+Author: Don Carson
+URL: https://poly.google.com/view/023W-XcCmir
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Soft serve ice cream
+Author: Poly by Google
+URL: https://poly.google.com/view/4izwZR51zhZ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Taco
+Author: Poly by Google
+URL: https://poly.google.com/view/56s2tfG_ofG
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Toilet paper roll
+Author: Poly by Google
+URL: https://poly.google.com/view/3fTwIG4NTg3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Top Hat / Magician's Hat
+Author: Jackson Norman
+URL: https://poly.google.com/view/5D_ieYZ0HUp
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Xmas Gift
+Author: Jeff Larson (Larson's ID/Tech Channel)
+URL: https://poly.google.com/view/8b5ywSuzte0
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
